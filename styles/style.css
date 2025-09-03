@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: rgba(0, 0, 0, 0.877);
+}
+section {
+    color: white;
+    width: 800px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    border: ;
+    border-style: dashed;
+    border-color: aliceblue;
+    padding: 10px;
+}
