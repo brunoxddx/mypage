@@ -27,6 +27,11 @@ header img {
     
 }
 
+header img:hover {
+    transform: scale(1.1); 
+    transition: 0.5s; 
+}
+
 main {
     text-align: center;
     margin: auto;
