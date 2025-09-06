@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: rgba(0, 0, 0, 0.877);
+    background-color: rgba(22, 21, 21, 0.877);
 }
 
 header {
@@ -52,7 +52,7 @@ nav a img:hover {
 }
 
 footer {
-    background-color: rgb(41, 17, 7);
+    background-color: #3d465f;
     text-align: center;
     margin: 0px;
     
